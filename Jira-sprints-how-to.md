@@ -57,8 +57,6 @@ To create an issue, click `+ Create issue`. You can then add the title of the is
 
 > **For the purposes of creating a sprint, it is important to include the story point estimate. Note that 1 story point corresponds with 1 day's work, which will then determine how many story points can be captured in a given sprint.**
 
-> For the purposes of creating a sprint, it is important to include the story point estimate. Note that 1 story point corresponds with 1 day's work, which will then determine how many story points can be captured in a given sprint.
-
 ### Link issues to the Epic
 
 Link issues to an Epic by clicking `Link issue` or the link icon. You can then select the Epic you'd like to link it to. 

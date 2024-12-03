@@ -55,10 +55,7 @@ To create an issue, click `+ Create issue`. You can then add the title of the is
 - Due date
 - Story point estimate
 
-<<<<<<< Updated upstream
-=======
 > **For the purposes of creating a sprint, it is important to include the story point estimate. Note that 1 story point corresponds with 1 day's work, which will then determine how many story points can be captured in a given sprint.**
->>>>>>> Stashed changes
 
 > For the purposes of creating a sprint, it is important to include the story point estimate. Note that 1 story point corresponds with 1 day's work, which will then determine how many story points can be captured in a given sprint.
 
